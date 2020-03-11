@@ -17,5 +17,7 @@ class Dog
 end 
 
 class Person
-  
+  def name=(name)
+    @name
+  end 
 end 
